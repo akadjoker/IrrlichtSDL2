@@ -1,4 +1,8 @@
 
 Irrlicht 3d with SDl2 and gles1 render for android and windows 
 This version of irrlicht is full depend of sdl2 to simplify the portability  , input manager and assets.
-i'm using the version form Haxe .
+i'm using this version form Haxe .
+
+changes  ;
+CWriteFile and CReadFile with SDL_RWops 
+DeviceSDL
